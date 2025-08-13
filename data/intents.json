@@ -1,0 +1,132 @@
+{
+  "config": {
+    "phone_number": "9999999999"
+  },
+
+  "greet": [
+    "hi", "hello", "hey", "good morning", "good evening", "good afternoon",
+    "hey there", "hello there", "hi there", "greetings",
+    "namaste", "namaskar", "suprabhat", "shubh sandhya", "shubh aparahn",
+    "namaskar mandali", "kaise ho", "kase aahat", "shubh prabhat"
+  ],
+
+  "goodbye": [
+    "bye", "see you later", "goodbye", "talk to you soon", "catch you later", "see ya", "ok thanks", "ok thank you", "got it",
+    "have a nice day", "thanks, bye", "thanks, goodbye",
+    "alvida", "phir milenge", "phir baat karenge", "aapka din shubh ho", "dhanyavaad, alvida",
+    "punha bhetu", "namaskar", "nighato", "dhanyavaad, bhetuya"
+  ],
+
+  "ask_projects": [
+    "what are your completed projects",
+    "show me your previous work",
+    "past projects?",
+    "tell me about your projects",
+    "which projects have you finished",
+    "can you share your completed projects",
+    "completed projects list",
+    "can you list the projects you have done",
+    "give me details of previous projects",
+    "what work have you completed",
+
+    "aapke poore hue project kaun se hain",
+    "mujhe aapka pichhla kaam dikhaen",
+    "poore kiye gaye projects?",
+    "apne projects ke baare mein bataen",
+    "kaun se project poore kiye hain",
+    "kya aap poore hue projects bata sakte hain",
+    "poore hue projects ki suchi",
+    "jo projects aapne kiye hain unki suchi den",
+    "pichhle projects ka vivaran den",
+    "aapne kaun sa kaam poora kiya hai",
+
+    "tumche purn jhalele prakalp konte",
+    "mala tumche magil kaam dakhva",
+    "purn jhalele prakalp?",
+    "tumchya prakalpambaddal sanga",
+    "konte prakalp purn jhale",
+    "tumche purn jhalele prakalp sangal ka",
+    "purn jhalele prakalpanchi yadi",
+    "tumhi kelele prakalpanchi yadi dya",
+    "magil prakalpacha tapsil dya",
+    "tumhi konte kaam purn kele aahe"
+  ],
+
+  "whatsapp_details": [
+    "send me details on whatsapp",
+    "can I get info on whatsapp?",
+    "whatsapp me the details",
+    "please whatsapp the information",
+    "send the project details to my whatsapp",
+    "can you send this on whatsapp",
+    "give me the info on whatsapp",
+    "I want the details on whatsapp",
+    "message me the details",
+    "send info on whatsapp",
+
+    "whatsapp par mujhe vivaran bhejen",
+    "kya mujhe whatsapp par jankari mil sakti hai?",
+    "mujhe vivaran whatsapp par bhejen",
+    "kripya jankari whatsapp karen",
+    "mere whatsapp par project ka vivaran bhejen",
+    "kya aap yeh whatsapp par bhej sakte hain",
+    "mujhe whatsapp par jankari den",
+    "mujhe whatsapp par vivaran chahiye",
+    "mujhe vivaran sandesh karen",
+    "whatsapp par jankari bhejen",
+
+    "majhya whatsappvar tapsil pathva",
+    "mala whatsappvar mahiti milel ka?",
+    "krupaya mahiti whatsappvar kara",
+    "majhya whatsappvar prakalpacha tapsil pathva",
+    "tumhi he whatsappvar pathvu shakta ka",
+    "mala whatsappvar mahiti dya",
+    "mala whatsappvar tapsil pahije",
+    "mala tapsil sandesh kara",
+    "whatsappvar mahiti pathva"
+  ],
+
+  "connect_representative": [
+    "connect me to a representative",
+    "transfer the call",
+    "talk to an agent",
+    "representative please",
+
+    "mujhe pratinidhi se jodiye",
+    "call transfer kar dijiye",
+    "agent se baat karaiye",
+    "pratinidhi chahiye",
+
+    "mala pratinidhishi bolayche aahe",
+    "call transfer kara",
+    "agentshi bolu dya",
+    "pratinidhi krupaya"
+  ],
+
+  "affirm": [
+    "yes", "yeah", "please do", "end it", "disconnect",
+    "haan", "bilkul", "ji haan", "haan ji"
+  ],
+
+  "deny": [
+    "no", "not now", "wait", "continue", "carry on",
+    "nahi", "nahin", "abhi nahi", "ruko", "jari rakho"
+  ],
+
+  "project_categories": {
+    "under_construction": ["pulse", "axis", "metro", "arize", "titan"],
+    "ready_to_move":      ["mapple", "edge", "aria"],
+    "completed":          []
+  },
+
+  "project_facts": {
+    "aria":   { "name": "Ashar Aria",   "category": "ready_to_move",      "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" },
+    "edge":   { "name": "Ashar Edge",   "category": "ready_to_move",      "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" },
+    "mapple": { "name": "Ashar Mapple", "category": "ready_to_move",      "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" },
+    "pulse":  { "name": "Ashar Pulse",  "category": "under_construction", "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" },
+    "axis":   { "name": "Ashar Axis",   "category": "under_construction", "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" },
+    "metro":  { "name": "Ashar Metro",  "category": "under_construction", "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" },
+    "arize":  { "name": "Ashar Arize",  "category": "under_construction", "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" },
+    "titan":  { "name": "Ashar Titan",  "category": "under_construction", "config": "1 & 2 B H K", "price": "Rs 1.25 Cr onwards", "floors": "45 storeys", "towers": "1" }
+  }
+}

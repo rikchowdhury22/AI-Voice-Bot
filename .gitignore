@@ -1,0 +1,74 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Audio Files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Model Files
+*.pkl
+*.onnx
+*.pt
+*.ckpt
+
+# Checkpoints / Caches
+checkpoints/
+*.ckpt
+*.h5
+*.tflite
+*.mlmodel
+*.joblib
+*.npz
+*.npy
+.cache/
+tmp/
+temp/
+
+# Transcripts & Outputs
+transcripts/
+outputs/
+
+# Testing
+.pytest_cache/
+coverage.xml
+htmlcov/
+.tox/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# MacOS and Linux hidden files
+*.swp
+*.pkl
+*.wav
